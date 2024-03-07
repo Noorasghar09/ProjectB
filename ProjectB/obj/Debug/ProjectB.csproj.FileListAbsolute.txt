@@ -1,0 +1,13 @@
+F:\4th sem\DB\ProjectB\Project\ProjectB\obj\Debug\ProjectB.Form1.resources
+F:\4th sem\DB\ProjectB\Project\ProjectB\obj\Debug\ProjectB.ManageStudent.resources
+F:\4th sem\DB\ProjectB\Project\ProjectB\obj\Debug\ProjectB.Properties.Resources.resources
+F:\4th sem\DB\ProjectB\Project\ProjectB\obj\Debug\ProjectB.csproj.GenerateResource.cache
+F:\4th sem\DB\ProjectB\Project\ProjectB\obj\Debug\ProjectB.csproj.CoreCompileInputs.cache
+F:\4th sem\DB\ProjectB\Project\ProjectB\bin\Debug\ProjectB.exe.config
+F:\4th sem\DB\ProjectB\Project\ProjectB\bin\Debug\ProjectB.exe
+F:\4th sem\DB\ProjectB\Project\ProjectB\bin\Debug\ProjectB.pdb
+F:\4th sem\DB\ProjectB\Project\ProjectB\obj\Debug\ProjectB.exe
+F:\4th sem\DB\ProjectB\Project\ProjectB\obj\Debug\ProjectB.pdb
+F:\4th sem\DB\ProjectB\Project\ProjectB\obj\Debug\ProjectB.Assessments.resources
+F:\4th sem\DB\ProjectB\Project\ProjectB\obj\Debug\ProjectB.Home.resources
+F:\4th sem\DB\ProjectB\Project\ProjectB\obj\Debug\ProjectB.Clo.resources
